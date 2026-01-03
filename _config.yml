@@ -22,9 +22,9 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "pics",  sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
+  - {title: wind, icon: wind-turbine, url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX1_5PNkAI02jCsBaV7dcoUwjkZr7li8mqvA&s"}
+  - {title: insta, icon: instagram, url: "https://www.instagram.com/evaszwajka/"}
   - {title: mail, icon: envelope, url: "mailto:ihbaop@gmail.com"}
-  - {title: insta, icon: mobile, url: "https://www.instagram.com/evaszwajka/"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
