@@ -18,7 +18,7 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {url: "https://ihbaop.github.io/", title: "home", sidebaricon: home}
+  - {url: "index.html", title: "home", sidebaricon: home}
   - {file: "pics.md", title: "pics",  sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
