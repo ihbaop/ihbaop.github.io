@@ -19,7 +19,7 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://ihbaop.github.io/", title: "home", sidebaricon: home}
-  - {file: "index.md", title: "pics",  sidebaricon: address-card}
+  - {file: "pics.md", title: "pics",  sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: wind, icon: wind-turbine, url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX1_5PNkAI02jCsBaV7dcoUwjkZr7li8mqvA&s"}
