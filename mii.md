@@ -4,7 +4,7 @@ title: "miis"
 ---
 
 
-![me](/assets/me.jpg))
+![me](/assets/me.png))
 
 
-![gio](/assets/gio.jpg))
+![gio](/assets/gio.png))
