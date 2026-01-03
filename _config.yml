@@ -23,7 +23,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: mail, icon: envelope, url: "mailto:ihbaop@gmail.com"}
-  - {title: insta, icon: instagram, url: "https://www.instagram.com/evaszwajka/"}
+  - {title: insta, icon: mobile, url: "https://www.instagram.com/evaszwajka/"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
