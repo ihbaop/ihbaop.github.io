@@ -3,8 +3,8 @@ layout: page
 title: "miis"
 ---
 
-me
-![title](/assets/me.jpg))
 
-gio
-![title](/assets/gio.jpg))
+![me](/assets/me.jpg))
+
+
+![gio](/assets/gio.jpg))
