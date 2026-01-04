@@ -21,7 +21,6 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "thoughts.html", title: "thoughts", sidebaricon: home}
   - {file: "pics.md", title: "pics",  sidebaricon: address-card}
   - {file: "friends.md", title: "friends", sidebaricon: smile}
-  - {file: "music.html", title: "music", sidebaricon: music}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: wind, icon: wind-turbine, url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX1_5PNkAI02jCsBaV7dcoUwjkZr7li8mqvA&s"}
