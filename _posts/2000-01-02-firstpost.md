@@ -7,7 +7,4 @@ categories:
   -website
 ---
 
-## header
-
-other text.
-
+all's well that ends!
