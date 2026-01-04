@@ -1,13 +1,11 @@
 ---
-title:  "first post"
+title:  "exorcising"
 mathjax: true
 layout: post
 categories:
   -github
   -website
 ---
-
-## exorcising
 
 <b> Bad news for her mother
 
