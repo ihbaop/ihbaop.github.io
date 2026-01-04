@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "miis"
+title: "friends"
 ---
 
 <div style="display:flex; gap:1rem; flex-wrap:wrap; align-items:center;">
