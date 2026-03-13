@@ -6,8 +6,6 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
- <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
 # Layout
 
 show_excerpts: true             # show article excerpts instead of archive list on the home page
