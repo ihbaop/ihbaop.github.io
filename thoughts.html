@@ -14,10 +14,5 @@ title: "thoughts"
 {% else %}
   {% capture source %}{% include_relative archive.html title="Posts" %}{% endcapture %}
   {{ source | split: "---" | last }}
-{% endif %}
-{% for post in site.posts %}
-  <article>
-    {% include meta.html post=post %}
-    {{ content }}
-  </article>
 {% endfor %}
+
