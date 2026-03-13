@@ -6,7 +6,6 @@ title: "thoughts"
 {% if site.show_excerpts %}
   {% for post in site.posts %}
     <article>
-      {% include meta.html post=post %}
       {{ post.excerpt }}
     </article>
   {% endfor %}
