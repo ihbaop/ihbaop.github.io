@@ -8,3 +8,6 @@ title: "friends"
 
   <img src="/assets/mantis.jpg" alt="bug" style="max-width:90%; height:auto;">
 <p> Praying Mantis, <i> Mantis </i></p>
+
+  <img src="/assets/mourning.jpg" alt="bug" style="max-width:90%; height:auto;">
+<p> Mourning Cloak Butterfly, <i> Nymphalis antiopa </i></p>
